@@ -1,0 +1,35 @@
+# Arquivos temporários
+obj/
+bin/
+.vscode/
+
+# Arquivos de compilação
+*.exe
+*.dll
+*.pdb
+*.userprefs
+
+# Arquivos gerados pelo Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Logs e arquivos de depuração
+*.log
+*.logs
+*.debuglog
+
+# Cache de pacotes do NuGet
+packages/
+*.nupkg
+
+# Arquivos de configuração local
+appsettings.json
+appsettings.Development.json
+
+# Arquivos de configuração de usuário do VSCode
+.vscode/settings.json
+
+# Arquivos de saída do build
+Build/
