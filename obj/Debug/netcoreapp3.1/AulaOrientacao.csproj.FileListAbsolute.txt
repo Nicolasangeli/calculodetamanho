@@ -1,0 +1,16 @@
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\bin\Debug\netcoreapp3.1\AulaOrientacao.exe
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\bin\Debug\netcoreapp3.1\AulaOrientacao.deps.json
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\bin\Debug\netcoreapp3.1\AulaOrientacao.runtimeconfig.json
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\bin\Debug\netcoreapp3.1\AulaOrientacao.runtimeconfig.dev.json
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\bin\Debug\netcoreapp3.1\AulaOrientacao.dll
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\bin\Debug\netcoreapp3.1\AulaOrientacao.pdb
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.csproj.AssemblyReference.cache
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.Form1.resources
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.csproj.GenerateResource.cache
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.AssemblyInfoInputs.cache
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.AssemblyInfo.cs
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.dll
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.pdb
+C:\Users\alunos\source\repos\AulaOrientacao\AulaOrientacao\obj\Debug\netcoreapp3.1\AulaOrientacao.genruntimeconfig.cache
